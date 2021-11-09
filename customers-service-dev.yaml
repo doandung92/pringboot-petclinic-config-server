@@ -1,1 +1,2 @@
-app.name = "CUSTOMER SERVICE DEV"
+app:
+  name : "CUSTOMER SERVICE DEV"
