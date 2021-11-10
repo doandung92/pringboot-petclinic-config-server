@@ -1,5 +1,5 @@
 app:
-  name : "CUSTOMER SERVICE DEV"
+  name : "CUSTOMER SERVICE DEFAULT"
  
 spring:
   profiles: default
