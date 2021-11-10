@@ -2,7 +2,6 @@ app:
   name : "CUSTOMER SERVICE DEV"
  
 spring:
-  port: 8081
   profiles: default
 eureka:
   instance:
@@ -16,6 +15,8 @@ spring:
       on-profile: docker
   zipkin:
     baseUrl: http://tracing-server:9411
+server:
+  port: 8081
 eureka:
   client:
     serviceUrl:
