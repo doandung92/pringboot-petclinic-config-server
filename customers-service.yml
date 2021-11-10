@@ -1,7 +1,7 @@
 app:
   name : "CUSTOMER SERVICE DEV"
  
- spring:
+spring:
   profiles: default
 eureka:
   instance:
